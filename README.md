@@ -1,1 +1,5 @@
-# projs_sql
+<p align="center">
+  <img src=https://github.com/analystkristle/analystkristle/blob/main/profile-banner.jpg
+</p>
+
+Welcome to my SQL projects repository! Here, you’ll find various examples of database queries using SQL. Feel free to explore to see how I approach data extraction, transformation, and analysis using SQL.
